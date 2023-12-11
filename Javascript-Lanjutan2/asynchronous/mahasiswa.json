@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "bayu alif",
+    "nim": "1800018325",
+    "email": "bayu@gmail",
+    "jurusan": "teknik informatika",
+    "idDodenWali": 1
+  },
+  {
+    "nama": "eko rilo",
+    "nim": "87916",
+    "email": "ekou@gmail",
+    "jurusan": "teknik informatika",
+    "idDodenWali": 2
+  },
+  {
+    "nama": "rifki",
+    "nim": "08796",
+    "email": "rifki@gmail",
+    "jurusan": "teknik kimia",
+    "idDodenWali": 2
+  }
+]
